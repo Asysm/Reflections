@@ -1,0 +1,7 @@
+bug is caused by the difference between two versions. Therefore, viewing only the difference will minimize the debugging time when compread to going over the entire file again.
+having easy access to the entire histor of a file saves debuging time. Additionally, a newer version of file does not necessarily mean a better one. when a programmer realizes that he/she took a wrong directon of upgrading an original product, having the original version of file allow him/her to go back to where he/she started instead of deleting codes.
+The pro of mannual saving is that only meaningful version of files upon user's judgement will be saved. The con is that user is likely to forget to save files sometimes or computer might crash before a file is saved.
+Because files like google docs work individually.
+git log allow users to see the changes made and saved by another user while git diff actually compatre the two versions of a file to determine what actual changes were made.
+being able to restore a file allows users to undo their mistakes.
+I will use git for every project that i will be working on.

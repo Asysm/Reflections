@@ -1,0 +1,1 @@
+staging area is a temeperory place to reorganize files from working direcotry before placing them into a repository in a desireable structure.

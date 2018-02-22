@@ -1,1 +1,4 @@
 staging area is a temeperory place to reorganize files from working direcotry before placing them into a repository in a desireable structure.
+Place all the files associated with the logial changes into the stagging area. So the commit will include all the related files.
+branch would be useful, as the video stated, when different versions of product are necessary for different target customers. Ex, game easy mode vs hard mode; 18+ vs under 18.
+Diagram allows me to trace back every commit made within the branch.
